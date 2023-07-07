@@ -18,8 +18,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gigatin&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gigatin&theme=monokai)
 
 
-## :snake: Activities :
-
-![Snake animation](https://github.com/Gigatin/Gigatin/blob/output/github-contribution-grid-snake.svg)
 
 
