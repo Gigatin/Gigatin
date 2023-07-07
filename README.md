@@ -13,3 +13,6 @@
 |![](https://github-readme-streak-stats.herokuapp.com/?user=Gigatin&theme=monokai&hide_border=false)|![Gigatin's Stats](https://github-readme-stats.vercel.app/api?username=Gigatin&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gigatin&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gigatin&theme=monokai)
