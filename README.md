@@ -20,5 +20,5 @@
 
 ## :snake: Activities :
 
-![Snake animation](https://github.com/italomauricio1/Gigatin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gigatin/Gigatin/blob/output/github-contribution-grid-snake.svg)
 
