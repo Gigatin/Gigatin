@@ -2,6 +2,9 @@
    
 #### Hi, I'm Gabriel Caetano. I hold a Bachelor's degree in Information Systems and I'm currently pursuing my post-graduate studies in Data Science, focusing on developing techniques for data analysis and collection. I am currently seeking employment.
 
+
+#### Olá, eu sou Gabriel Caetano. Tenho uma graduação em Sistemas de Informação e estou atualmente fazendo pós-graduação em Ciência de Dados, com foco no desenvolvimento de técnicas para análise e coleta de dados. Estou atualmente em busca de emprego.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabriel-caetano-silva-motta-32181717b/)
 
 
