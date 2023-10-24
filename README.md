@@ -5,6 +5,17 @@
 
 #### Olá, eu sou Gabriel Caetano. Tenho uma graduação em Sistemas de Informação e estou atualmente fazendo pós-graduação em Ciência de Dados, com foco no desenvolvimento de técnicas para análise e coleta de dados. Estou atualmente em busca de emprego.
 
+
+## Sobre os Projetos
+
+Gostaria de ressaltar que todos os projetos disponíveis neste repositório foram desenvolvidos a partir de ideias particulares ou de cursos e bootcamps que realizei. Cada projeto é uma demonstração do meu aprendizado e habilidades em diferentes áreas.
+
+## Sobre os READMEs
+
+Além dos projetos em si, todos os READMEs foram criados por mim com o objetivo de fornecer informações detalhadas sobre cada projeto. Cada README contém documentação que explica os objetivos, funcionalidades, tecnologias utilizadas e como executar ou testar o projeto. Estes READMEs são uma forma de demonstrar meu conhecimento e facilitar a compreensão de cada projeto.
+
+Sinta-se à vontade para explorar os projetos e seus respectivos READMEs. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabriel-caetano-silva-motta-32181717b/)
 
 
