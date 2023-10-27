@@ -10,6 +10,11 @@
 
 Gostaria de ressaltar que todos os projetos disponíveis neste repositório foram desenvolvidos a partir de ideias particulares ou de cursos e bootcamps que realizei. Cada projeto é uma demonstração do meu aprendizado e habilidades em diferentes áreas.
 
+Os diretorios:
+
+PowerBi-Projects: Possui meus dashboards desenvolvidos e um relatorio explicando cada um
+Notbooks-Projects: Possui meus codigos python, que utilizei pra desenvolver analises ou predições
+
 ## Sobre os READMEs
 
 Além dos projetos em si, todos os READMEs foram criados por mim com o objetivo de fornecer informações detalhadas sobre cada projeto. Cada README contém documentação que explica os objetivos, funcionalidades, tecnologias utilizadas e como executar ou testar o projeto. Estes READMEs são uma forma de demonstrar meu conhecimento e facilitar a compreensão de cada projeto.
