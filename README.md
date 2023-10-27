@@ -12,8 +12,8 @@ Gostaria de ressaltar que todos os projetos disponíveis neste repositório fora
 
 Os diretorios:
 
-- PowerBi-Projects: Possui meus dashboards desenvolvidos e um relatorio explicando cada um
-- Notbooks-Projects: Possui meus codigos python, que utilizei pra desenvolver analises ou predições
+- PowerBi-Projects: Possui meus dashboards desenvolvidos e um relatorio explicando cada um, foco em demonstrar minhas habilidades em contruções de analises e habilidades analiticas. 
+- Notbooks-Projects: Possui meus codigos python, que utilizei pra desenvolver analises ou predições.
 
 ## Sobre os READMEs
 
