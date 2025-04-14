@@ -1,26 +1,82 @@
-### Welcome to my GitHub! :grin:
+# 👋 Bem-vindo ao meu GitHub! | Welcome to my GitHub! 😁
 
-#### Hi, I'm Gabriel Caetano. I hold a Bachelor's degree in Information Systems and I'm currently pursuing my post-graduate studies in Data Science, focusing on developing techniques for data analysis and collection. I am currently seeking employment.
+Olá, eu sou **Gabriel Caetano**, Analista de Dados com formação em **Sistemas de Informação** e atualmente cursando **pós-graduação em Ciência de Dados**. Tenho experiência prática em projetos de **Ciência de Dados**, **Desenvolvimento Web** e **Suporte Técnico**.
 
-#### Olá, eu sou Gabriel Caetano. Tenho uma graduação em Sistemas de Informação e estou atualmente fazendo pós-graduação em Ciência de Dados, com foco no desenvolvimento de técnicas para análise e coleta de dados. Estou atualmente em busca de emprego.
+Atualmente, busco uma nova oportunidade profissional onde eu possa aplicar e expandir minhas habilidades em análise de dados, visualização, modelagem estatística e engenharia de dados.
+
+Hi, I'm **Gabriel Caetano**, a Data Analyst with a degree in **Information Systems**, currently pursuing a **post-graduate degree in Data Science**. I have hands-on experience in **Data Science**, **Web Development**, and **Technical Support**.
+
+I am currently looking for new professional opportunities where I can apply and grow my skills in data analysis, visualization, statistical modeling, and data engineering.
 
 ---
 
-## 💻 About Me
+## 💻 Sobre Mim | About Me
 
-I have experience in Data Science, Web Development, and Technical Support. Throughout my career, I have worked on multiple freelance projects, providing **technical support for large-scale events**.
+- 📊 **Experiência em:**  
+  - Ciência de Dados  
+  - Análise de Dados  
+  - Desenvolvimento de Dashboards  
+  - Suporte Técnico e Projetos de Infraestrutura
 
+- 🔧 **Tecnologias que domino:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-FFCA28?style=flat&logo=sqlite&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## 📚 Projects
+- 🌍 Idiomas:  
+  - Português (nativo)  
+  - Inglês (intermediário)
 
-All projects in this repository were developed based on **personal ideas, courses, and bootcamps** that I have completed. Each project is a demonstration of my **learning and skills** in different areas.
+---
 
-**Repository Structure:**
+## 📚 Projetos | Projects
 
-- **PowerBi-Projects**: Dashboards with detailed reports explaining each one, showcasing my **analytical and visualization skills**.
-- **Notebooks-Projects**: Python scripts used for **data analysis, machine learning models, and predictions**.
+Os projetos deste repositório estão organizados por pastas, atualizados em ordem cronológica (do mais antigo para o mais recente), com o objetivo de demonstrar minha **evolução técnica e analítica** ao longo do tempo.
 
-Each project contains a **well-documented README**, explaining **objectives, functionalities, technologies used, and how to execute or test it**.
+This repository contains projects organized in folders, updated in chronological order (from oldest to newest), to showcase my **technical and analytical evolution** over time.
+
+### 💼 Hard Skills & Soft Skills
+
+A ideia dos projetos é apresentar:
+
+- **Hard Skills:** através de notebooks, scripts SQL, modelos de Machine Learning e dashboards interativos.
+- **Soft Skills:** por meio da estruturação de relatórios, insights obtidos e clareza nas análises.
+
+The projects aim to highlight both:
+
+- **Hard Skills:** via notebooks, SQL scripts, machine learning models, and interactive dashboards.
+- **Soft Skills:** through structured reports, extracted insights, and clarity in communication.
+
+---
+
+## 📁 Estrutura do Repositório | Repository Structure
+
+- **📊 PowerBi-Projects**  
+  Dashboards com relatórios detalhados, demonstrando habilidades analíticas e domínio em visualização de dados.  
+  Dashboards with detailed reports, showcasing analytical and data visualization skills.
+
+- **📓 Notebooks-Projects**  
+  Scripts em Python voltados para ciência de dados, criação de modelos preditivos e análise exploratória.  
+  Python scripts focused on data science, predictive modeling, and exploratory data analysis.
+
+---
+
+## 📌 Cada projeto possui um README com:  
+- Objetivos e escopo  
+- Tecnologias utilizadas  
+- Funcionalidades principais  
+- Como executar ou testar
+
+Each project includes a README with:  
+- Objectives and scope  
+- Technologies used  
+- Main features  
+- How to run or test it
+
 
 ---
 
