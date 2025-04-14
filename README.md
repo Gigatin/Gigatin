@@ -15,7 +15,8 @@ I am currently looking for new professional opportunities where I can apply and 
 - 📊 **Experiência em:**  
   - Ciência de Dados  
   - Análise de Dados  
-  - Desenvolvimento de Dashboards  
+  - Desenvolvimento de Dashboards
+  - Desenvolvimento Web
   - Suporte Técnico e Projetos de Infraestrutura
 
 ### 💡 Linguagens e Ferramentas Voltadas para Dados
