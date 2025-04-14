@@ -37,7 +37,7 @@ I am currently looking for new professional opportunities where I can apply and 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
-
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
 
 ### 🔧 Ferramentas de Suporte
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
