@@ -1,10 +1,10 @@
 # 👋 Bem-vindo ao meu GitHub! | Welcome to my GitHub! 😁
 
-Olá, eu sou **Gabriel Caetano**, Analista de Dados com formação em **Sistemas de Informação** e atualmente cursando **pós-graduação em Ciência de Dados**. Tenho experiência prática em projetos de **Ciência de Dados**, **Desenvolvimento Web** e **Suporte Técnico**.
+Olá, eu sou **Gabriel Caetano**, Analista de Dados com formação em **Sistemas de Informação** e Pós-Graduado em **Ciência de Dados**. Tenho experiência prática em projetos de **Ciência de Dados**, **Desenvolvimento Web** e **Suporte Técnico**.
 
 Atualmente, busco uma nova oportunidade profissional onde eu possa aplicar e expandir minhas habilidades em análise de dados, visualização, modelagem estatística e engenharia de dados.
 
-Hi, I'm **Gabriel Caetano**, a Data Analyst with a degree in **Information Systems**, currently pursuing a **post-graduate degree in Data Science**. I have hands-on experience in **Data Science**, **Web Development**, and **Technical Support**.
+Hi, I'm **Gabriel Caetano**, a Data Analyst with a degree in **Information Systems**, post-graduate degree in **Data Science**. I have hands-on experience in **Data Science**, **Web Development**, and **Technical Support**.
 
 I am currently looking for new professional opportunities where I can apply and grow my skills in data analysis, visualization, statistical modeling, and data engineering.
 
@@ -18,22 +18,16 @@ I am currently looking for new professional opportunities where I can apply and 
   - Desenvolvimento de Dashboards  
   - Suporte Técnico e Projetos de Infraestrutura
 
-### 💡 Linguagens & Ferramentas Gerais | Languages & Tools
+### 💡 Linguagens e Ferramentas Voltadas para Dados
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFCA28?style=flat&logo=sqlite&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
----
-### Desenvolvimento Web
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
 
 ### 📚 Bibliotecas Python | Python Libraries
 
@@ -41,6 +35,17 @@ I am currently looking for new professional opportunities where I can apply and 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=matplotlib&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### 🔧 Ferramentas de Suporte
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+
+### 💻Desenvolvimento Web
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
+
+
 
 
 - 🌍 Idiomas:  
